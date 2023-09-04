@@ -23332,10 +23332,10 @@ react-native-sensors@5.3.0:
   dependencies:
     rxjs ">= 6"
 
-react-native-share@7.3.7:
-  version "7.3.7"
-  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-7.3.7.tgz#f5eed0bf657ec8c5c45e3fe7a88611d28cc8f734"
-  integrity sha512-WYXAqyNZeKKk3Kvsv4N3tJuLNw8k+HM+ymKnWFRomoSerD5syJqmBHgw1HwED8iV3zH11lXJw3rha9+H80XUHQ==
+react-native-share@9.4.0:
+  version "9.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-share/-/react-native-share-9.4.0.tgz#0619afd2d2092d633e7811db2b3d4a1779e2db76"
+  integrity sha512-yuT5wX+Ew1Wy0HonAbGn0xL4rD60e5xeQCB3NuGetlUqx+bocMtf6YjtqsOot01exszPnfyWh32DHP2a5YOSCA==
 
 react-native-size-matters@0.4.0:
   version "0.4.0"
