@@ -23486,10 +23486,10 @@ react-native-webrtc@^106.0.0-beta.7:
     event-target-shim "6.0.2"
     tar "6.1.11"
 
-react-native-webview@11.13.0:
-  version "11.13.0"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-11.13.0.tgz#a2eca0f87b2ae9bba0dd8144594aeff9947cc5d6"
-  integrity sha512-jjQAKWv8JzRmcn76fMe4lXD84AAeR7kn43kAmUe1GX312BMLaP+RbKlgpYAlNuOBXL0YirItGKDrpaD0bNROOA==
+react-native-webview@13.10.3:
+  version "13.10.3"
+  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-13.10.3.tgz#afde1a52311fa6c56314466850764d142b7e6729"
+  integrity sha512-Gs8TvwvKvf8C6eVa3znyDn1MeYnC6tyPyBZz2D+pxys+tMn5bFUnDVdv7UpACEyoXIifsKRG7zJZu0D8OUsd2w==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
