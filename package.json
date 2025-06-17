@@ -333,7 +333,7 @@
     "zxcvbn": "4.4.2"
   },
   "devDependencies": {
-    "@actions/core": "^1.10.0",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^5.1.1",
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
